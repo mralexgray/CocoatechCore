@@ -1,0 +1,133 @@
+// !$*UTF8*$!
+{
+	0867D690FE84028FC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeTarget = 8DC2EF4F0486A6940098B216 /* CocoatechCore */;
+		codeSenseManager = 8C0149B8102D442E00FEEBB7 /* Code sense */;
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					301,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 272177673;
+			PBXWorkspaceStateSaveDate = 272177673;
+		};
+		perUserProjectItems = {
+			8C3D2AC6102FAAC10007B87E /* PBXTextBookmark */ = 8C3D2AC6102FAAC10007B87E /* PBXTextBookmark */;
+			8C3D2AC7102FAAC10007B87E /* PBXTextBookmark */ = 8C3D2AC7102FAAC10007B87E /* PBXTextBookmark */;
+			8C3D2C8E102FBAA00007B87E /* PBXTextBookmark */ = 8C3D2C8E102FBAA00007B87E /* PBXTextBookmark */;
+			8C590B4E10391C740074656C /* PBXTextBookmark */ = 8C590B4E10391C740074656C /* PBXTextBookmark */;
+		};
+		sourceControlManager = 8C0149B7102D442E00FEEBB7 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	20CCEAAD0CC56021009C75A5 /* NSEvent-Utilities.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {666, 4942}}";
+			sepNavSelRange = "{3421, 0}";
+			sepNavVisRange = "{3242, 489}";
+		};
+	};
+	32DBCF5E0370ADEE00C91783 /* CocoatechCore_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {606, 253}}";
+			sepNavSelRange = "{348, 46}";
+			sepNavVisRange = "{0, 426}";
+		};
+	};
+	8C0149B7102D442E00FEEBB7 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	8C0149B8102D442E00FEEBB7 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	8C3D2AC6102FAAC10007B87E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32DBCF5E0370ADEE00C91783 /* CocoatechCore_Prefix.pch */;
+		name = "CocoatechCore_Prefix.pch: 14";
+		rLen = 46;
+		rLoc = 348;
+		rType = 0;
+		vrLen = 426;
+		vrLoc = 0;
+	};
+	8C3D2AC7102FAAC10007B87E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32DBCF5E0370ADEE00C91783 /* CocoatechCore_Prefix.pch */;
+		name = "CocoatechCore_Prefix.pch: 14";
+		rLen = 46;
+		rLoc = 348;
+		rType = 0;
+		vrLen = 426;
+		vrLoc = 0;
+	};
+	8C3D2C8E102FBAA00007B87E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 20CCEAAD0CC56021009C75A5 /* NSEvent-Utilities.m */;
+		name = "NSEvent-Utilities.m: 142";
+		rLen = 0;
+		rLoc = 3421;
+		rType = 0;
+		vrLen = 442;
+		vrLoc = 3242;
+	};
+	8C590B4E10391C740074656C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 20CCEAAD0CC56021009C75A5 /* NSEvent-Utilities.m */;
+		name = "NSEvent-Utilities.m: 142";
+		rLen = 0;
+		rLoc = 3421;
+		rType = 0;
+		vrLen = 442;
+		vrLoc = 3242;
+	};
+	8DC2EF4F0486A6940098B216 /* CocoatechCore */ = {
+		activeExec = 0;
+	};
+}
